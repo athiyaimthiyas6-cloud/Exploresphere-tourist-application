@@ -57,7 +57,9 @@ http://localhost/exploresphere/
 - **Database:** MySQL (via XAMPP)
 - **Maps:** Google Maps Embed API (no API key needed for embeds)
 - **Fonts:** Google Fonts (Playfair Display, DM Sans, Space Mono)
-
+  
+- ## 🔗 GitHub Repository
+Project source code:  
 
 ## Features
 - [x] 10+ tourist places within 25 km of Makola
